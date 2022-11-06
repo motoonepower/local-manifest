@@ -5559,9 +5559,7 @@ function init() {
   if (UI.credits) {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-      <a>
-        <img src="">
-      </a>
+      <a href="https://hits.sh/sem7comps.rushizmirrorbots.workers.dev/0:/"><img alt="Hits" src="https://hits.sh/sem7comps.rushizmirrorbots.workers.dev/0:.svg?view=today-total&label=Visitors%20Today&extraCount=25476&color=007ec6&logo=Android"/></a>
     </div>
     </div>
     `
